@@ -5,8 +5,8 @@
 **Curso:** Engenharia da Computação  
 **Disciplina:** Banco de Dados  
 **Projeto:** Sistema de Gerenciamento de Autopeças  
-**Integrantes:** preencher os nomes dos dois integrantes  
-**Semestre:** preencher conforme a turma
+**Integrantes:** Pablo Fernandes de Souza e Lucas Oliveira Alves  
+**Semestre:** 6º Semestre
 
 ## 2. Resumo executivo
 O projeto propõe um banco de dados relacional para apoiar as atividades de uma loja de autopeças. O sistema organiza informações de clientes, funcionários, fornecedores, categorias e produtos, além de registrar compras, vendas, itens e pagamentos.
