@@ -46,7 +46,7 @@ A tabela `pagamento` possui relacionamento de um para um (1:1) com a tabela `ven
 
 O diagrama abaixo apresenta as tabelas do banco de dados e seus respectivos relacionamentos.
 
-![Diagrama Entidade-Relacionamento do Sistema de Autopeças](DER_autopecas.png)
+![Diagrama Entidade-Relacionamento do Sistema de Autopeças](02_DER_autopecas.png)
 
 ## 6. Recursos utilizados na estrutura
 
